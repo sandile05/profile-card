@@ -37,14 +37,14 @@ body{
     margin: -52px 0 20px 0;
 }
 
-.content h2{
+.content h1{
     color: hsl(229, 23%, 23%);
     font-size: 18px;
     font-weight: 700;
     margin-bottom: 10px;
 }
 
-.content h2 span{
+.content h1 span{
     color: hsl(227, 10%, 46%);
     font-weight: 400;
 }
