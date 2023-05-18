@@ -17,3 +17,11 @@ body{
     margin: 0 auto;
     text-align: center;
 }
+
+.wrapper{
+    max-width: 420px;
+    background-color: #fff;
+    border-radius: 15px;
+    overflow: hidden;
+    margin: 1rem;
+}
